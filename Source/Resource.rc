@@ -1,0 +1,5 @@
+#include"source/resource.h"
+
+// リソースID, リソースタイプ, ～
+//ID_ICON ICON "KSG.ico"
+ID_BASEIMG BASE DISCARDABLE "media/Texture/base.png"
